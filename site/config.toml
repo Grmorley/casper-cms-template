@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Mrs Hall"
+title = "Patricia Hall"
 theme = "hugo-theme-casper"
 disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
@@ -12,8 +12,8 @@ canonifyurls = true
 [params]
   description = "this is my description"
   cover = "images/cover.jpg"
-  author = "Valère JEANTET"
-  authorlocation = "Paris, France"
+  author = "Geoff, Andy and John Hall"
+  authorlocation = "London, England"
   authorwebsite = "http://vjeantet.fr"
   bio= "my bio"
   logo = "images/logo.png"
