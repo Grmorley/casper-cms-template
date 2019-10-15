@@ -2,8 +2,6 @@
 date: 2019-15-22T20:04:40.407Z
 title: Patricia Hall
 ---
-Just Giving Page
-
 We are raising money for the IFAW because our wonderful mum, Patricia Hall, passed away.
 
 On Wednesday 9th October our mum, Patricia Hall, passed away peacefully at North Middlesex Hospital after bravely battling against Parkinson’s Disease for many years, as well as dementia and mobility problems caused by 2 hip fractures. She was a remarkable woman, and the best mum anyone could have and we are all devastated by our loss. It’s been a very sad period in our lives as we also lost our brother, David, on Christmas Eve last year.
