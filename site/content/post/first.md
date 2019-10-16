@@ -4,7 +4,7 @@ title: Patricia Hall
 ---
 Just Giving Page
 
-![Image of Patricia](Mum and Bobby.jpg)
+![Image of Patricia](https://github.com/Grmorley/casper-cms-template/blob/master/Mum%20and%20Bobby.jpg)
 
 We are raising money for the IFAW because our wonderful mum, Patricia Hall, passed away.
 
