@@ -4,6 +4,7 @@ title: Patricia Hall
 ---
 Just Giving Page
 
+![Image of Patricia](Mum and Bobby.jpg)
 
 We are raising money for the IFAW because our wonderful mum, Patricia Hall, passed away.
 
